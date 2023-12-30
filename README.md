@@ -4,3 +4,6 @@ The code goes through all the data and calculates the average score of cones per
 
 Libraries:
 - Numpy
+- Pandas
+- 
+- 
